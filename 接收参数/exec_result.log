@@ -1,0 +1,16 @@
+➜  learning_of_shell git:(main) ✗ bash 接收参数/argv.sh
+使用方法: 接收参数/argv.sh 参数
+➜  learning_of_shell git:(main) ✗ bash 接收参数/argv.sh 1
+无效的参数: 1
+➜  learning_of_shell git:(main) ✗ bash 接收参数/argv.sh option1
+执行选项1的逻辑
+➜  learning_of_shell git:(main) ✗ bash 接收参数/argv.sh option2
+执行选项2的逻辑
+➜  learning_of_shell git:(main) ✗ bash 接收参数/argv.sh option3
+无效的参数: option3
+➜  learning_of_shell git:(main) ✗ 
+
+-- 设置默认值
+➜  learning_of_shell git:(main) ✗ bash 接收参数/argv_default.sh
+执行选项1的逻辑
+➜  learning_of_shell git:(main) ✗ 
